@@ -31,9 +31,15 @@ li p {
 
 .contacts {
 	width: 33vw;
+	cursor: pointer;
 }
 
 ul li ul {
 	display: none;
 	position: absolute;
+	z-index: 100;
+}
+
+.contacts p {
+	font-size: 200%;
 }
