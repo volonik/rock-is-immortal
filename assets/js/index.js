@@ -1,4 +1,4 @@
-let str = "page/";
+let str = "https://volonik.github.io/rock-is-immortal/page/";
 let minPage = 1;
 let maxPage = 5;
 
