@@ -1,5 +1,5 @@
 let doc = document.getElementById("quote-p");
-let list = ["Рок будет жить!", "Rock is immortal!"];
+let list = ["Рок будет жить!", "Rock is Immortal!"];
 
 function randPage(min, max) {
 	min = Math.ceil(min);
